@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "a18cbf82-f682-7da0-6892-79ba836ba6db",
+  "instructors": {
+    "content": [
+      "fdcae15c-d0cd-54d9-94fa-bacc0caedcbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "16ad6d47-67c9-bfa7-89f0-7a5e17b7f33d",
+    "website": "21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fall-2007"
+  },
+  "course_title": "Studies in Fiction: Rethinking the American Masterpiece",
+  "hide_download": true,
+  "course_description": "What has been said of _Moby-Dick_\u2014that it's the greatest novel no one ever reads\u2014could just as well be said of any number of American \"classics\" like _The Scarlet Letter, Uncle Tom's Cabin_, or _The Adventures of Huckleberry Finn_. This course reconsiders a small number of nineteenth-century American novels by presenting each in a surprising context.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.702",
+  "course_image_thumbnail": {
+    "content": "0bec3a14-6933-9986-8a38-e9f129401651",
+    "website": "21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fall-2007"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "702bfdd6-fc63-4d9e-bdfd-cfd0338fb5f3",
+  "site_short_id": "21l.702-fall-2007",
+  "site_url_path": "courses/21l-702-studies-in-fiction-rethinking-the-american-masterpiece-fall-2007",
+  "title": "Course Metadata"
+}
