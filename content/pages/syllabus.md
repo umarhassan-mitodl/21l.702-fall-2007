@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on course meeting times, course requirements, a statement on plagiarism, and the
   schedule of lecture topics, readings, and assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -300,4 +298,4 @@ Plagiarism attacks the freedom and integrity of thought. It violates the trust o
 
 The Literature Section has formulated this statement and policy for all plagiarism cases:
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the [MIT Writing and Communication Center](http://web.mit.edu/writing/index.html) and the MIT Web site on Plagiarism.
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the {{% resource_link "457cecbc-0928-4b4b-a6af-28dd2549109e" "MIT Writing and Communication Center" %}} and the MIT Web site on Plagiarism.
